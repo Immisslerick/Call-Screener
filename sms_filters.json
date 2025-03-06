@@ -1,0 +1,1 @@
+{"blocked": [], "whitelist": [], "keywords": [], "block_non_contacts": true, "time_restrictions": {"enabled": true, "quiet_hours": {"start": 20, "end": 6}}, "frequency_limits": {"enabled": true, "max_per_hour": 5, "max_per_day": 20, "message_history": {}}, "active_categories": ["urgent_action", "common_spam", "financial_scams", "promotional", "adult_content", "suspicious_links"]}
